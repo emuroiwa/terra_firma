@@ -1,3 +1,8 @@
+<h4>Installation</h4>
+Restore the MySQL db named terra_firma<br>
+Clone the repo and run grails run-app
+<hr>
+<h4>A bit of explanation</h4>
 Question 1
 
 Point 2.
